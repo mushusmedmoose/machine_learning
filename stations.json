@@ -2640,16 +2640,6 @@
     ]
   },
   {
-    "id": 1281,
-    "name": "Mobila kontoret Fyrbodal",
-    "Url": "https://polisen.se/om-polisen/kontakt/polisstationer/vastra-gotaland/mobila-kontoret-fyrbodal/",
-    "location": {
-      "name": ", ",
-      "gps": "0,0"
-    },
-    "services": []
-  },
-  {
     "id": 6706,
     "name": "Mobila kontoret Älvsborg",
     "Url": "https://polisen.se/om-polisen/kontakt/polisstationer/vastra-gotaland/mobila-kontoret-alvsborg/",
